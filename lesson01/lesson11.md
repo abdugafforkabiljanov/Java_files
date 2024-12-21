@@ -15,3 +15,8 @@
 ``` sh
   ls
 ```
+
+Удаление файла в Linux
+```sh
+  rm <filename>
+```
